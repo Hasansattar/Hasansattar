@@ -27,5 +27,5 @@
 [website]: https://hasansattar-portfolio.netlify.app/
 [twitter]: https://twitter.com/hasansattar3
 [instagram]: https://www.instagram.com/hasan_sattar/
-[linkedin]: www.linkedin.com/in/hasansattar
+[linkedin]: https://www.linkedin.com/in/hasansattar
  
