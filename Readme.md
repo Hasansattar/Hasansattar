@@ -8,9 +8,17 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
- 
+   ### Skills ###
+----------------------------------------------------------------------------------------------------------------------------
+- Languages - **Solidity,JavaScript & HTML,CSS**
+- Libraries/Frameworks: - **Bootstrap, React, NodeJS, ExpressJS and REST API**
+- Databases: - **MySQL and MongoDB**
+- Tools: - **Hardhat,Truffle, Ganacehe, CLI, Git, Github and Developer Tools**
+- Blokchains - **Ethereum,Binance,Polygon(Prev Matic),Tron**
 
-### Connect with me:
+
+### Connect with me: ###
+----------------------------------------------------------------------------------------------------------------------------
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
@@ -26,13 +34,8 @@
 [instagram]: https://www.instagram.com/hasan_sattar/
 [linkedin]: https://www.linkedin.com/in/hasansattar
  
- ### Skills ###
+
 ----------------------------------------------------------------------------------------------------------------------------
-- Languages - **Solidity,JavaScript & HTML,CSS**
-- Libraries/Frameworks: - **Bootstrap, React, NodeJS, ExpressJS and REST API**
-- Databases: - **MySQL and MongoDB**
-- Tools: - **Hardhat,Truffle, Ganacehe, CLI, Git, Github and Developer Tools**
-- Blokchains - **Ethereum,Binance,Polygon(Prev Matic),Tron**
 
 <img align="left" alt="Ethereum" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1200px-Ethereum-icon-purple.svg.png" />
 <img align="left" alt="Uniswap" width="25px" src="https://app.uniswap.org/static/media/logo.4a50b488.svg" />
