@@ -1,7 +1,8 @@
 ### Hi there, 👋
 
-### I'm Hasan Sattar . I'm a self-taught Front-End Software Engineer & Blockchain & Infrastructure as code in AWS in the Pakistan. Since the age of 3, I've always been fascinated by computers & loved spending hours playing on them. I'm currently working as a Jamstack Developer, freelance Front-End Web Developer, & Computer Technician.👨‍💻🖥️🔧 
+### I'm Hasan Sattar . I'm a self-taught Front-End Software Engineer & Blockchain & Infrastructure as code in AWS. I'm currently working as a Jamstack Developer, freelance Front-End Web Developer, & Computer Technician.👨‍💻🖥️🔧 
 
+----------------------------------------------------------------------------------------------------------------------------
 
 - 🔭 I’m currently working with Solidity, Web3.js, Truffle,   React, Redux, & more!
 - 🌱 I'm looking to connect with more blockchain developers!
@@ -18,7 +19,6 @@
 
 
 ### Connect with me: ###
-----------------------------------------------------------------------------------------------------------------------------
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
