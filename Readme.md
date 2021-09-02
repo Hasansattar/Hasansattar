@@ -11,11 +11,12 @@
 
    ### Skills ###
 ----------------------------------------------------------------------------------------------------------------------------
-- Languages - **Solidity,JavaScript & HTML,CSS**
-- Libraries/Frameworks: - **Bootstrap, React, NodeJS, ExpressJS and REST API**
-- Databases: - **MySQL and MongoDB**
+- Languages - **Solidity,JavaScript,Typescript,React js,Gatbyjs,Node js & HTML,CSS**
+- Libraries/Frameworks: - **Bootstrap,CSS,Matrial-UI, REST API, Graphql API**
+- Databases: - **MySQL and MongoDB, FaunaDB,Contentfull**
 - Tools: - **Hardhat,Truffle, Ganacehe, CLI, Git, Github and Developer Tools**
-- Blokchains - **Ethereum,Binance,Polygon(Prev Matic),Tron**
+- Blockchains - **Ethereum,Binance,Polygon(Prev Matic),Tron**
+- Cloud dev - **AWS(amazon web service), Heruka**
 
 
   ### Connect with me: ###
